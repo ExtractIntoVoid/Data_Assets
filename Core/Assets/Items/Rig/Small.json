@@ -1,0 +1,22 @@
+{
+	"BaseID": "Rig_Small",
+	"ItemType": "IRig",
+	"Weight": 7.0,
+	"AssetPath": "",
+	"MaxItem": 4,
+	"ItemsAccepted": 
+	[
+		"IAmmo",
+		"IMagazine",
+		"IHealing",
+		"IThrowable"
+	],
+	"SpecificItemsAccepted": 
+	[
+
+	],
+	"ArmorPlateAccepted": 
+	[
+		"IArmorPlate"
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"BaseID": "ArmoredRig_Medium",
+	"ItemType": "IArmoredRig",
+	"Weight": 9.0,
+	"AssetPath": "",
+	"MaxItem": 12,
+	"ItemsAccepted": 
+	[
+		"IAmmo",
+		"IMagazine",
+		"IHealing",
+		"IThrowable"
+	],
+	"SpecificItemsAccepted": 
+	[
+
+	],
+	"ArmorPlateAccepted": 
+	[
+		"IArmorPlate"
+	],
+	"BlockEfficacy": 67.5,
+	"ArmorWeight": 62.5
+}
