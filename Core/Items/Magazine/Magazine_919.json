@@ -1,0 +1,13 @@
+{
+	"BaseID": "Magazine_919",
+	"SubType": "Magazine_919",
+	"ItemType": "Magazine",
+	"Weight": 1.5,
+    "MagSize": 12,
+    "AmmoSupport": 
+    [
+        "Ammo_919",
+        "Ammo_919_AP"
+    ],
+	"AssetPath": "Core/Assets/Items/Magazine/919.tres"
+}

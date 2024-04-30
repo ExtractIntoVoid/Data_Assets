@@ -1,0 +1,9 @@
+{
+	"BaseID": "Armor_Medium",
+	"SubType": "Armor_Medium",
+	"ItemType": "Armor",
+	"Weight": 0.0,
+	"BlockEfficacy": 67.5,
+	"ArmorWeight": 89.5,
+	"AssetPath": "Core/Assets/Items/Armor/Medium.tres"
+}

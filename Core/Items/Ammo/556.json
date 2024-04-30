@@ -1,0 +1,11 @@
+{
+	"BaseID": "Ammo_556",
+	"Damage": 40,
+	"ArmorDamage": 48,
+	"DamageType": "Bullet",
+	"Speed": 0.5,
+	"Weight": 0.20,
+	"ItemType": "Ammo",
+	"SubType": "Ammo_556",
+	"AssetPath": "Core/Assets/Items/Ammo/Ammo_556.tres"
+}

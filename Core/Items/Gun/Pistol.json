@@ -1,0 +1,11 @@
+{
+	"BaseID": "Pistol",
+	"SubType": "Pistol",
+	"ItemType": "Gun",
+	"Weight": 13.0,
+    "MagazineSupport": 
+    [
+        "Magazine_919"
+    ],
+	"AssetPath": "Core/Assets/Items/Gun/Pistol.tres"
+}
