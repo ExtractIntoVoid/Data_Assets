@@ -1,6 +1,5 @@
 {
 	"BaseID": "Throwable_Smoke",
-	"SubType": "Throwable_Smoke",
 	"ItemType": "IThrowable",
 	"Weight": 0.8,
     "UseTime": 2,

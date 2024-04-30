@@ -1,6 +1,5 @@
 {
 	"BaseID": "Armor_Light",
-	"SubType": "Armor_Light",
 	"ItemType": "IArmor",
 	"Weight": 0.0,
 	"BlockEfficacy": 43.5,

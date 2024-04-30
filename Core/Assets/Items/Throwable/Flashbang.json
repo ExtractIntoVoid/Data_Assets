@@ -1,6 +1,5 @@
 {
 	"BaseID": "Throwable_Flashbang",
-	"SubType": "Throwable_Flashbang",
 	"ItemType": "IThrowable",
 	"Weight": 0.50,
     "UseTime": 2,

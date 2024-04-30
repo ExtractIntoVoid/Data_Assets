@@ -1,6 +1,5 @@
 {
 	"BaseID": "Throwable_Grenade",
-	"SubType": "Throwable_Grenade",
 	"ItemType": "IThrowable",
 	"Weight": 0.8,
     "UseTime": 2,

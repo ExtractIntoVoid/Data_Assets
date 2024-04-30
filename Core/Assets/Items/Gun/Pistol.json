@@ -1,6 +1,5 @@
 {
 	"BaseID": "Pistol",
-	"SubType": "Pistol",
 	"ItemType": "IGun",
 	"Weight": 13.0,
     "MagazineSupport": 

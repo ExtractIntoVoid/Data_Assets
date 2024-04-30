@@ -1,6 +1,5 @@
 {
 	"BaseID": "Armor_Heavy",
-	"SubType": "Armor_Heavy",
 	"ItemType": "IArmor",
 	"Weight": 0.0,
 	"BlockEfficacy": 89.5,

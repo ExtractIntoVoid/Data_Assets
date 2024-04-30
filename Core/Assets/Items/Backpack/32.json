@@ -1,6 +1,5 @@
 {
 	"BaseID": "Backpack_32",
-	"SubType": "Backpack_32",
 	"ItemType": "IBackpack",
 	"Weight": 0.0,
     "MaxItemWeight": 32,

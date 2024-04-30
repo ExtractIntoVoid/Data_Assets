@@ -6,6 +6,5 @@
 	"Speed": 0.5,
 	"Weight": 0.20,
 	"ItemType": "IAmmo",
-	"SubType": "Ammo_919_AP",
 	"AssetPath": "Core/Assets/Items/Ammo/Ammo_919_AP.tres"
 }

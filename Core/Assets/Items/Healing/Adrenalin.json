@@ -1,6 +1,5 @@
 {
 	"BaseID": "Healing_Adrenalin",
-	"SubType": "Healing_Adrenalin",
 	"ItemType": "IHealing",
 	"Weight": 0.50,
     "UseTime": 3,

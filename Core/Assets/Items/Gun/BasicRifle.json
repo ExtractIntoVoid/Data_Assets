@@ -1,6 +1,5 @@
 {
 	"BaseID": "BasicRifle",
-	"SubType": "BasicRifle",
 	"ItemType": "IGun",
 	"Weight": 35.0,
     "MagazineSupport": 
