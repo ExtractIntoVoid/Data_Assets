@@ -5,7 +5,7 @@
 	"DamageType": "Bullet",
 	"Speed": 0.5,
 	"Weight": 0.20,
-	"ItemType": "Ammo",
+	"ItemType": "IAmmo",
 	"SubType": "Ammo_919",
 	"AssetPath": "Core/Assets/Items/Ammo/Ammo_919.tres"
 }
