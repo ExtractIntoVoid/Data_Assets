@@ -1,0 +1,12 @@
+{
+	"BaseID": "Magazine_556",
+	"SubType": "Magazine_556",
+	"ItemType": "Magazine",
+	"Weight": 2.5,
+    "MagSize": 34,
+    "AmmoSupport": 
+    [
+        "Ammo_556"
+    ],
+	"AssetPath": "Core/Assets/Items/Magazine/556.tres"
+}

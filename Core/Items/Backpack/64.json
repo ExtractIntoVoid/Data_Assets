@@ -1,0 +1,8 @@
+{
+	"BaseID": "Backpack_64",
+	"SubType": "Backpack_64",
+	"ItemType": "Backpack",
+	"Weight": 0.0,
+    "MaxItemWeight": 64,
+	"AssetPath": "Core/Assets/Items/Backpack/64.tres"
+}

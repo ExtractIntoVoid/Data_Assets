@@ -1,0 +1,12 @@
+{
+	"BaseID": "Magazine_762_DRUM",
+	"SubType": "Magazine_762_DRUM",
+	"ItemType": "Magazine",
+	"Weight": 5.9,
+    "MagSize": 86,
+    "AmmoSupport": 
+    [
+        "Ammo_762"
+    ],
+	"AssetPath": "Core/Assets/Items/Magazine/762_DRUM.tres"
+}

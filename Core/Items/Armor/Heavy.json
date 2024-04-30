@@ -1,0 +1,9 @@
+{
+	"BaseID": "Armor_Heavy",
+	"SubType": "Armor_Heavy",
+	"ItemType": "Armor",
+	"Weight": 0.0,
+	"BlockEfficacy": 89.5,
+	"ArmorWeight": 137,
+	"AssetPath": "Core/Assets/Items/Armor/Heavy.tres"
+}

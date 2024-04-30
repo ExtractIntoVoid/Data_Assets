@@ -1,0 +1,11 @@
+{
+	"BaseID": "AdvancedRifle",
+	"SubType": "AdvancedRifle",
+	"ItemType": "Gun",
+	"Weight": 45.0,
+    "MagazineSupport": 
+    [
+        "Magazine_762"
+    ],
+	"AssetPath": "Core/Assets/Items/Gun/AdvancedRifle.tres"
+}

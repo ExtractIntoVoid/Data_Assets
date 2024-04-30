@@ -1,0 +1,9 @@
+{
+	"BaseID": "Armor_Light",
+	"SubType": "Armor_Light",
+	"ItemType": "Armor",
+	"Weight": 0.0,
+	"BlockEfficacy": 43.5,
+	"ArmorWeight": 55.5,
+	"AssetPath": "Core/Assets/Items/Armor/Light.tres"
+}

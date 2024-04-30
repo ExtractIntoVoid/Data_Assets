@@ -1,0 +1,11 @@
+{
+	"BaseID": "BasicRifle",
+	"SubType": "BasicRifle",
+	"ItemType": "Gun",
+	"Weight": 35.0,
+    "MagazineSupport": 
+    [
+        "Magazine_556"
+    ],
+	"AssetPath": "Core/Assets/Items/Gun/BasicRifle.tres"
+}
