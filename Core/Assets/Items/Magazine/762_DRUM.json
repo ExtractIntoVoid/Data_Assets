@@ -1,7 +1,7 @@
 {
 	"BaseID": "Magazine_762_DRUM",
 	"SubType": "Magazine_762_DRUM",
-	"ItemType": "Magazine",
+	"ItemType": "IMagazine",
 	"Weight": 5.9,
     "MagSize": 86,
     "AmmoSupport": 

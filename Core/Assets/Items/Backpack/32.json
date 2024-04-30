@@ -1,7 +1,7 @@
 {
 	"BaseID": "Backpack_32",
 	"SubType": "Backpack_32",
-	"ItemType": "Backpack",
+	"ItemType": "IBackpack",
 	"Weight": 0.0,
     "MaxItemWeight": 32,
 	"AssetPath": "Core/Assets/Items/Backpack/32.tres"

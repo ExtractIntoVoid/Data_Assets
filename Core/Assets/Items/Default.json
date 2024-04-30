@@ -1,7 +1,7 @@
 {
 	"BaseID": "Default",
 	"SubType": "",
-	"ItemType": "None",
+	"ItemType": "IItem",
 	"Weight": 0.0,
 	"AssetPath": ""
 }

@@ -1,7 +1,7 @@
 {
 	"BaseID": "AdvancedRifle",
 	"SubType": "AdvancedRifle",
-	"ItemType": "Gun",
+	"ItemType": "IGun",
 	"Weight": 45.0,
     "MagazineSupport": 
     [

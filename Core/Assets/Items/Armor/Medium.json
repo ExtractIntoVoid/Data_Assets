@@ -1,7 +1,7 @@
 {
 	"BaseID": "Armor_Medium",
 	"SubType": "Armor_Medium",
-	"ItemType": "Armor",
+	"ItemType": "IArmor",
 	"Weight": 0.0,
 	"BlockEfficacy": 67.5,
 	"ArmorWeight": 89.5,

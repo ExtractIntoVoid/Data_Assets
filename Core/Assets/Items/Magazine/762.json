@@ -1,7 +1,7 @@
 {
 	"BaseID": "Magazine_762",
 	"SubType": "Magazine_762",
-	"ItemType": "Magazine",
+	"ItemType": "IMagazine",
 	"Weight": 3.9,
     "MagSize": 54,
     "AmmoSupport": 
