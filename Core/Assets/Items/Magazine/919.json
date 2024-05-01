@@ -5,8 +5,7 @@
     "MagSize": 12,
     "AmmoSupport": 
     [
-        "Ammo_919",
-        "Ammo_919_AP"
+        "919"
     ],
 	"AssetPath": "Core/Assets/Items/Magazine/919.tres"
 }
