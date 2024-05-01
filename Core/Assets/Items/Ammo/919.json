@@ -7,5 +7,8 @@
 	"ArmorDamage": 12,
 	"DamageType": "Bullet",
 	"Speed": 0.5,
-	"BaseAmmoType": "919"
+	"Tags": [
+		"Ammo_9x19",
+		"Ammo"
+	]
 }

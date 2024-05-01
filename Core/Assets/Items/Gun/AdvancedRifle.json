@@ -4,7 +4,15 @@
 	"Weight": 45.0,
     "MagazineSupport": 
     [
-        "Magazine_762"
+        "AdvRifleMag762"
+    ],
+    "AmmoSupported" :
+    [
+        "Ammo_762x51"
+    ],
+    "Tags" : [
+      "Weapon",
+      "AutoRifle"
     ],
 	"AssetPath": "Core/Assets/Items/Gun/AdvancedRifle.tres"
 }

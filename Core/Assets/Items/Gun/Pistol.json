@@ -4,7 +4,16 @@
 	"Weight": 13.0,
     "MagazineSupport": 
     [
-        "Magazine_919"
+        "Mag919"
+    ],
+    "AmmoSupported" :
+    [
+        "Ammo_9x19"
+    ],
+    "Tags" : [
+      "Weapon",
+      "Pistol",
+      "Civilian"
     ],
 	"AssetPath": "Core/Assets/Items/Gun/Pistol.tres"
 }

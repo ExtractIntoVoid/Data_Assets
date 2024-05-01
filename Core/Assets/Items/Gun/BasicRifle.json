@@ -4,7 +4,15 @@
 	"Weight": 35.0,
     "MagazineSupport": 
     [
-        "Magazine_556"
+        "RifleMag556"
+    ],
+    "AmmoSupported" :
+    [
+        "Ammo_556x45"
+    ],
+    "Tags" : [
+      "Weapon",
+      "AutoRifle"
     ],
 	"AssetPath": "Core/Assets/Items/Gun/BasicRifle.tres"
 }
