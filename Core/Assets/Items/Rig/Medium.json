@@ -4,7 +4,7 @@
 	"Weight": 9.0,
 	"AssetPath": "",
 	"MaxItem": 12,
-	"ItemsAccepted": 
+	"ItemTypesAccepted": 
 	[
 		"IAmmo",
 		"IMagazine",

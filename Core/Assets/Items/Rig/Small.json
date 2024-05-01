@@ -4,19 +4,13 @@
 	"Weight": 7.0,
 	"AssetPath": "",
 	"MaxItem": 4,
-	"ItemsAccepted": 
+	"ItemTypesAccepted": 
 	[
 		"IAmmo",
 		"IMagazine",
 		"IHealing",
 		"IThrowable"
 	],
-	"SpecificItemsAccepted": 
-	[
-
-	],
-	"ArmorPlateAccepted": 
-	[
-		"IArmorPlate"
-	]
+	"SpecificItemsAccepted": [],
+	"ArmorPlateAccepted": []
 }

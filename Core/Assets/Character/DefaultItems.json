@@ -1,0 +1,48 @@
+[
+    {
+        "ItemBaseID": "Ammo_919_AP",
+        "Amount": 3
+    },
+    {
+        "ItemBaseID": "Magazine_919",
+        "Amount": 1,
+        "Contained": 
+        [
+            {
+                "ItemBaseID": "Ammo_919",
+                "Amount": 10,
+                "Slot": "AmmoSlot"
+            },
+            {
+                "ItemBaseID": "Ammo_919_AP",
+                "Amount": 3,
+                "Slot": "AmmoSlot"
+            }
+        ]
+    },
+    {
+        "ItemBaseID": "Gun_Pistol",
+        "Amount": 1,
+        "Contained": 
+        [
+            {
+                "ItemBaseID": "Magazine_919",
+                "Amount": 1,
+                "Slot": "MagazineSlot",
+                "Contained": 
+                [
+                    {
+                        "ItemBaseID": "Ammo_919",
+                        "Amount": 10,
+                        "Slot": "AmmoSlot"
+                    },
+                    {
+                        "ItemBaseID": "Ammo_919_AP",
+                        "Amount": 3,
+                        "Slot": "AmmoSlot"
+                    }
+                ]
+            }
+        ]
+    }
+]
