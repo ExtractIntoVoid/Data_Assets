@@ -4,5 +4,10 @@
 	"Weight": 0.50,
     "UseTime": 2,
     "FuseTime": 5.0,
-	"AssetPath": "Core/Assets/Items/Throwable/Flashbang.tres"
+	"AssetPath": "Core/Assets/Items/Throwable/Flashbang.tres",
+    "Tags": 
+    [
+        "Throwable_Flashbang",
+        "Throwable"
+    ]
 }

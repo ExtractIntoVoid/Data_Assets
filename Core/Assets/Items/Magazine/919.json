@@ -3,14 +3,14 @@
 	"ItemType": "IMagazine",
 	"Weight": 1.5,
     "MagSize": 12,
-    "Tags": 
-    [
-        "Mag919",
-        "Magazine"
-    ],
     "SupportedAmmo" : 
     [
         "Ammo_9x19"
     ],
-	"AssetPath": "Core/Assets/Items/Magazine/919.tres"
+	"AssetPath": "Core/Assets/Items/Magazine/919.tres",
+    "Tags": 
+    [
+        "Mag919",
+        "Magazine"
+    ]
 }

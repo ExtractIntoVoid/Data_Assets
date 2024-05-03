@@ -5,5 +5,10 @@
     "Damage": 24,
     "DamageType": "Melee",
     "UseTime": 0.5,
-	"AssetPath": "Core/Assets/Items/Melee/Knife.tres"
+	"AssetPath": "Core/Assets/Items/Melee/Knife.tres",
+    "Tags": 
+    [
+        "Melee_Knife",
+        "Melee"
+    ]
 }

@@ -3,5 +3,9 @@
 	"ItemType": "IBackpack",
 	"Weight": 0.0,
     "MaxItemWeight": 64,
-	"AssetPath": "Core/Assets/Items/Backpack/64.tres"
+	"AssetPath": "Core/Assets/Items/Backpack/64.tres",
+	"Tags": [
+		"Backpack_64",
+		"Backpack"
+	]
 }

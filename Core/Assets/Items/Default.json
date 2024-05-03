@@ -2,5 +2,6 @@
 	"BaseID": "Default",
 	"ItemType": "IItem",
 	"Weight": 0.0,
-	"AssetPath": ""
+	"AssetPath": "",
+	"Tags": []
 }

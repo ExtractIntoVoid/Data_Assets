@@ -4,5 +4,9 @@
 	"Weight": 0.0,
 	"BlockEfficacy": 43.5,
 	"ArmorWeight": 55.5,
-	"AssetPath": "Core/Assets/Items/Armor/Light.tres"
+	"AssetPath": "Core/Assets/Items/Armor/Light.tres",
+	"Tags": [
+		"Armor_Light",
+		"Armor"
+	]
 }

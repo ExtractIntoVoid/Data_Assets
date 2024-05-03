@@ -4,5 +4,9 @@
 	"Weight": 0.0,
 	"BlockEfficacy": 89.5,
 	"ArmorWeight": 137,
-	"AssetPath": "Core/Assets/Items/Armor/Heavy.tres"
+	"AssetPath": "Core/Assets/Items/Armor/Heavy.tres",
+	"Tags": [
+		"Armor_Heavy",
+		"Armor"
+	]
 }

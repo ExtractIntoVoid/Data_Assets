@@ -4,5 +4,9 @@
 	"Weight": 0.0,
 	"BlockEfficacy": 67.5,
 	"ArmorWeight": 89.5,
-	"AssetPath": "Core/Assets/Items/Armor/Medium.tres"
+	"AssetPath": "Core/Assets/Items/Armor/Medium.tres",
+	"Tags": [
+		"Armor_Medium",
+		"Armor"
+	]
 }

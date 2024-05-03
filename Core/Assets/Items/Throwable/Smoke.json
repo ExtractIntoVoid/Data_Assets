@@ -4,5 +4,10 @@
 	"Weight": 0.8,
     "UseTime": 2,
     "FuseTime": 5.0,
-	"AssetPath": "Core/Assets/Items/Throwable/Smoke.tres"
+	"AssetPath": "Core/Assets/Items/Throwable/Smoke.tres",
+    "Tags": 
+    [
+        "Throwable_Smoke",
+        "Throwable"
+    ]
 }

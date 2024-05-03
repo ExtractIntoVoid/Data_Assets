@@ -3,14 +3,14 @@
 	"ItemType": "IMagazine",
 	"Weight": 2.5,
     "MagSize": 34,
-    "Tags": 
-    [
-        "RifleMag556",
-        "Magazine"
-    ],
     "SupportedAmmo" : 
     [
         "Ammo_556x45"
     ],
-	"AssetPath": "Core/Assets/Items/Magazine/556.tres"
+	"AssetPath": "Core/Assets/Items/Magazine/556.tres",
+    "Tags": 
+    [
+        "RifleMag556",
+        "Magazine"
+    ]
 }

@@ -3,15 +3,15 @@
 	"ItemType": "IMagazine",
 	"Weight": 5.9,
     "MagSize": 86,
+    "SupportedAmmo" : 
+    [
+        "Ammo_762x51"
+    ],
+	"AssetPath": "Core/Assets/Items/Magazine/762_DRUM.tres",
     "Tags": 
     [
         "AdvRifleMag762",
         "Magazine",
         "DrumMag"
-    ],
-    "SupportedAmmo" : 
-    [
-        "Ammo_762x51"
-    ],
-	"AssetPath": "Core/Assets/Items/Magazine/762_DRUM.tres"
+    ]
 }

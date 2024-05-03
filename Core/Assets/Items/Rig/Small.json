@@ -12,5 +12,10 @@
 		"IThrowable"
 	],
 	"SpecificItemsAccepted": [],
-	"ArmorPlateAccepted": []
+	"ArmorPlateAccepted": [],
+    "Tags": 
+    [
+        "Rig_Small",
+        "Rig"
+    ]
 }

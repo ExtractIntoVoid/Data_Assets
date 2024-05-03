@@ -20,5 +20,10 @@
 		"IArmorPlate"
 	],
 	"BlockEfficacy": 67.5,
-	"ArmorWeight": 62.5
+	"ArmorWeight": 62.5,
+	"Tags": [
+		"ArmoredRig_Medium",
+		"ArmoredRig",
+		"Rig"
+	]
 }

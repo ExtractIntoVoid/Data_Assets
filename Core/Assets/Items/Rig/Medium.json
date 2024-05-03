@@ -18,5 +18,10 @@
 	"ArmorPlateAccepted": 
 	[
 		"IArmorPlate"
-	]
+	],
+    "Tags": 
+    [
+        "Rig_Medium",
+        "Rig"
+    ]
 }

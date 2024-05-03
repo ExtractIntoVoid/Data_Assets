@@ -8,5 +8,9 @@
     [
         
     ],
-	"AssetPath": "Core/Assets/Items/Healing/Medkit.tres"
+	"AssetPath": "Core/Assets/Items/Healing/Medkit.tres",
+	"Tags": [
+		"Healing_MedKit",
+		"Healing"
+	]
 }

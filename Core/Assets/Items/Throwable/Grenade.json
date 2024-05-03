@@ -4,5 +4,10 @@
 	"Weight": 0.8,
     "UseTime": 2,
     "FuseTime": 5.0,
-	"AssetPath": "Core/Assets/Items/Throwable/Grenade.tres"
+	"AssetPath": "Core/Assets/Items/Throwable/Grenade.tres",
+    "Tags": 
+    [
+        "Throwable_Grenade",
+        "Throwable"
+    ]
 }
