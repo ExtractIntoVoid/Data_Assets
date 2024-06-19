@@ -1,0 +1,18 @@
+{
+    "BaseID": "Attachment_Silencer",
+	"ItemType": "IAttachment",
+	"Weight": 0.3,
+    "GunSupport":
+    [
+        "IGun"
+    ],
+    "RequiredGunTags":
+    [
+        
+    ],
+    "Tags" : [
+      "Attachment",
+      "AutoRifle"
+    ],
+	"AssetPath": "Core/Assets/Items/Attachment/Silencer.tres"
+}
