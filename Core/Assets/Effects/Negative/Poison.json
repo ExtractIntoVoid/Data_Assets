@@ -1,0 +1,32 @@
+{
+    "EffectID": "Posion",
+    "EffectType": "Negative",
+    "Health": {
+        "Negative": 2,
+        "Positive": 0,
+        "Cause": "Posion"
+    },
+    "Energy": {
+        "Negative": 0,
+        "Positive": 0
+    },
+    "Time": {
+        "Initial": 120,
+        "Min": 0,
+        "Max": -1,
+        "WaitUntilApply": 0
+    },
+    "Strength": {
+        "Min": 0,
+        "Max": 30,
+        "ApplyTo": [
+            "Health"
+        ]
+    },
+    "AppliedFrom": [
+        "IAmmo"
+    ],
+    "AppliedTo": [
+        "Player"
+    ]
+}
