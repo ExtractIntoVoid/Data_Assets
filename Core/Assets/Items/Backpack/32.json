@@ -2,7 +2,9 @@
 	"BaseID": "Backpack_32",
 	"ItemType": "IBackpack",
 	"Weight": 0.0,
+	"Volume": 0.0,
     "MaxItemWeight": 32,
+	"MaxItemVolume": 32,
 	"AssetPath": "Core/Assets/Items/Backpack/32.tres",
 	"Tags": [
 		"Backpack_32",

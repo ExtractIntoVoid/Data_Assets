@@ -2,6 +2,7 @@
 	"BaseID": "Gun_BasicRifle",
 	"ItemType": "IGun",
 	"Weight": 35.0,
+	"Volume": 0.0,
     "MagazineSupport": 
     [
         "RifleMag556"

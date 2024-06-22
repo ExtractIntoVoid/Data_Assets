@@ -1,5 +1,6 @@
 {
     "MaxSize": 1,
     "MaxWeight": 2,
+	"MaxVolume": 3.0,
     "Items": []
 }

@@ -2,6 +2,7 @@
 	"BaseID": "Melee_Knife",
 	"ItemType": "IMelee",
 	"Weight": 0.0,
+	"Volume": 0.0,
     "Damage": 24,
     "DamageType": "Melee",
     "UseTime": 0.5,

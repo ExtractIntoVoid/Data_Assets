@@ -2,6 +2,7 @@
 	"BaseID": "Gun_AdvancedRifle",
 	"ItemType": "IGun",
 	"Weight": 45.0,
+	"Volume": 0.0,
     "MagazineSupport": 
     [
         "AdvRifleMag762"

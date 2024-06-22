@@ -2,6 +2,7 @@
 	"BaseID": "ArmorPlate_Lightweight",
 	"ItemType": "IArmorPlate",
 	"Weight": 3.2,
+	"Volume": 0.0,
 	"AssetPath": "",
     "Durability": 30,
     "Material": "Ceramic",

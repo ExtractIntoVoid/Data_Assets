@@ -2,6 +2,7 @@
 	"BaseID": "Magazine_919",
 	"ItemType": "IMagazine",
 	"Weight": 1.5,
+	"Volume": 0.0,
     "MagSize": 12,
     "SupportedAmmo" : 
     [

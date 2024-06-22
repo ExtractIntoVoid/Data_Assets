@@ -2,6 +2,7 @@
 	"BaseID": "Ammo_556",
 	"ItemType": "IAmmo",
 	"Weight": 0.20,
+	"Volume": 0.0,
 	"AssetPath": "Core/Assets/Items/Ammo/Ammo_556.tres",
 	"Damage": 40,
 	"ArmorDamage": 48,

@@ -2,6 +2,7 @@
 	"BaseID": "ArmoredRig_Medium",
 	"ItemType": "IArmoredRig",
 	"Weight": 9.0,
+	"Volume": 0.0,
 	"AssetPath": "",
 	"MaxItem": 12,
 	"ItemsAccepted": 
