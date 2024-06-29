@@ -1,33 +1,33 @@
 {
-	"EffectID": "Poison",
-	"EffectType": "Negative",
+	"EffectID": "Adrenalin",
+	"EffectType": "Positive",
 	"Health": {
-		"Negative": 2,
+		"Negative": 0,
 		"Positive": 0,
-		"Cause": "Poison"
+		"Cause": "Adrenalin"
 	},
 	"Energy": {
 		"Negative": 0,
-		"Positive": 0
+		"Positive": 30
 	},
 	"Time": {
-		"Initial": 120,
+		"Initial": 40,
 		"Min": 0,
 		"Max": -1,
-		"WaitUntilApply": 0
+		"WaitUntilApply": 10
 	},
 	"Strength": {
 		"Min": 0,
 		"Max": 30,
-		"ApplyTo": [
+		"Energy": [
 			"Health"
 		]
 	},
 	"AppliedFrom": [
-		"IAmmo"
+		"IHealing"
 	],
 	"AppliedTo": [
 		"Player"
 	],
-	"UseClass": "EIV_Game.Effects.Poison"
+	"UseClass": "EIV_Game.Effects.Adrenalin"
 }

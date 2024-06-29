@@ -7,9 +7,12 @@
 	[
 		"RifleMag556"
 	],
-	"AmmoSupported" :
+	"AmmoSupported":
 	[
 		"Ammo_556x45"
+	],
+	"Attachments":
+	[
 	],
 	"Tags" : [
 	  "Weapon",

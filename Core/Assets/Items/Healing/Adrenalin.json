@@ -7,7 +7,7 @@
 	"HealAmount": 25,
 	"SideEffect": 
 	[
-		"Effect_Adrenalin"
+		"Adrenalin"
 	],
 	"AssetPath": "Core/Assets/Items/Healing/Adrenalin.tres",
 	"Tags": [

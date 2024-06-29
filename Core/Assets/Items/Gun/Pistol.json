@@ -7,9 +7,12 @@
 	[
 		"Mag919"
 	],
-	"AmmoSupported" :
+	"AmmoSupported":
 	[
 		"Ammo_9x19"
+	],
+	"Attachments":
+	[
 	],
 	"Tags" : [
 	  "Weapon",

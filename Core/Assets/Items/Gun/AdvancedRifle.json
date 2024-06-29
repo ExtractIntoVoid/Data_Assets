@@ -7,9 +7,12 @@
 	[
 		"AdvRifleMag762"
 	],
-	"AmmoSupported" :
+	"AmmoSupported":
 	[
 		"Ammo_762x51"
+	],
+	"Attachments":
+	[
 	],
 	"Tags" : [
 	  "Weapon",
