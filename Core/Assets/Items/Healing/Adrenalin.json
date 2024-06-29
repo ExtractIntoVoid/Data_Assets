@@ -3,16 +3,16 @@
 	"ItemType": "IHealing",
 	"Weight": 0.50,
 	"Volume": 0.0,
-    "UseTime": 3,
-    "HealAmount": 25,
-    "SideEffect": 
-    [
-        "Effect_Adrenalin"
-    ],
+	"UseTime": 3,
+	"HealAmount": 25,
+	"SideEffect": 
+	[
+		"Effect_Adrenalin"
+	],
 	"AssetPath": "Core/Assets/Items/Healing/Adrenalin.tres",
 	"Tags": [
 		"Healing_Adrenalin",
 		"Healing",
-        "Effect_Positive"
+		"Effect_Positive"
 	]
 }

@@ -1,6 +1,6 @@
 {
-    "MaxSize": 32,
-    "MaxWeight": 300,
+	"MaxSize": 32,
+	"MaxWeight": 300,
 	"MaxVolume": 300.0,
-    "Items": []
+	"Items": []
 }

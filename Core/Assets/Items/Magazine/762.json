@@ -3,15 +3,15 @@
 	"ItemType": "IMagazine",
 	"Weight": 3.9,
 	"Volume": 0.0,
-    "MagSize": 54,
-    "SupportedAmmo" : 
-    [
-        "Ammo_762x51"
-    ],
+	"MagSize": 54,
+	"SupportedAmmo" : 
+	[
+		"Ammo_762x51"
+	],
 	"AssetPath": "Core/Assets/Items/Magazine/762.tres",
-    "Tags": 
-    [
-        "AdvRifleMag762",
-        "Magazine"
-    ]
+	"Tags": 
+	[
+		"AdvRifleMag762",
+		"Magazine"
+	]
 }

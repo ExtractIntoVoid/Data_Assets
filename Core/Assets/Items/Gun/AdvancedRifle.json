@@ -3,17 +3,17 @@
 	"ItemType": "IGun",
 	"Weight": 45.0,
 	"Volume": 0.0,
-    "MagazineSupport": 
-    [
-        "AdvRifleMag762"
-    ],
-    "AmmoSupported" :
-    [
-        "Ammo_762x51"
-    ],
-    "Tags" : [
-      "Weapon",
-      "AutoRifle"
-    ],
+	"MagazineSupport": 
+	[
+		"AdvRifleMag762"
+	],
+	"AmmoSupported" :
+	[
+		"Ammo_762x51"
+	],
+	"Tags" : [
+	  "Weapon",
+	  "AutoRifle"
+	],
 	"AssetPath": "Core/Assets/Items/Gun/AdvancedRifle.tres"
 }

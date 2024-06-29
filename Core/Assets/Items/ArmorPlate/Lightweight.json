@@ -4,8 +4,8 @@
 	"Weight": 3.2,
 	"Volume": 0.0,
 	"AssetPath": "",
-    "Durability": 30,
-    "Material": "Ceramic",
+	"Durability": 30,
+	"Material": "Ceramic",
 	"Tags": [
 		"ArmorPlate_Lightweight",
 		"Ceramic",

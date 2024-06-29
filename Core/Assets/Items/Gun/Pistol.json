@@ -3,18 +3,18 @@
 	"ItemType": "IGun",
 	"Weight": 13.0,
 	"Volume": 0.0,
-    "MagazineSupport": 
-    [
-        "Mag919"
-    ],
-    "AmmoSupported" :
-    [
-        "Ammo_9x19"
-    ],
-    "Tags" : [
-      "Weapon",
-      "Pistol",
-      "Civilian"
-    ],
+	"MagazineSupport": 
+	[
+		"Mag919"
+	],
+	"AmmoSupported" :
+	[
+		"Ammo_9x19"
+	],
+	"Tags" : [
+	  "Weapon",
+	  "Pistol",
+	  "Civilian"
+	],
 	"AssetPath": "Core/Assets/Items/Gun/Pistol.tres"
 }
