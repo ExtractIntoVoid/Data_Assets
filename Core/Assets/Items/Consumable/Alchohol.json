@@ -1,0 +1,14 @@
+{
+	"BaseID": "Consumable_Alchohol",
+	"ItemType": "IConsumable",
+	"Weight": 0.0,
+	"Volume": 0.0,
+	"AssetPath": "",
+	"Tags": [],
+	"MaxUses": 100,
+	"EnergyRestore": 0,
+	"HydrationRestore": 10,
+	"Effects": [
+		"Alchohol"
+	]
+}

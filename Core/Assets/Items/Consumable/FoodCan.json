@@ -1,0 +1,12 @@
+{
+	"BaseID": "Consumable_FoodCan",
+	"ItemType": "IConsumable",
+	"Weight": 0.0,
+	"Volume": 0.0,
+	"AssetPath": "",
+	"Tags": [],
+	"MaxUses": 100,
+	"EnergyRestore": 60,
+	"HydrationRestore": 30,
+	"Effects": []
+}

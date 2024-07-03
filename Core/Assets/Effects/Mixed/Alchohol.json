@@ -1,0 +1,33 @@
+{
+	"EffectID": "Alchohol",
+	"EffectType": "Mixed",
+	"Health": {
+		"Negative": 1,
+		"Positive": 0,
+		"Cause": "Alchohol"
+	},
+	"Energy": {
+		"Negative": 0,
+		"Positive": 0
+	},
+	"Time": {
+		"Initial": 40,
+		"Min": 0,
+		"Max": -1,
+		"WaitUntilApply": 10
+	},
+	"Strength": {
+		"Min": 0,
+		"Max": 30,
+		"Energy": [
+			"Health"
+		]
+	},
+	"AppliedFrom": [
+		"IConsumable"
+	],
+	"AppliedTo": [
+		"Player"
+	],
+	"UseClass": "EIV_Game.Effects.Alchohol"
+}
