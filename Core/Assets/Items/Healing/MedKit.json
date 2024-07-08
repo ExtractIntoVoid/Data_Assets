@@ -5,9 +5,8 @@
 	"Volume": 0.0,
 	"UseTime": 3,
 	"HealAmount": 25,
-	"SideEffect": 
+	"SideEffects": 
 	[
-		
 	],
 	"AssetPath": "Core/Assets/Items/Healing/Medkit.tres",
 	"Tags": [

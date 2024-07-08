@@ -1,5 +1,5 @@
 {
-	"BaseID": "Consumable_Alchohol",
+	"BaseID": "Consumable_Alcohol",
 	"ItemType": "IConsumable",
 	"Weight": 0.0,
 	"Volume": 0.0,
@@ -8,7 +8,12 @@
 	"MaxUses": 100,
 	"EnergyRestore": 0,
 	"HydrationRestore": 10,
-	"Effects": [
-		"Alchohol"
+	"SideEffects": 
+	[
+		{
+			"EffectName":"Alcohol",
+			"EffectTime": 10,
+			"EffectStrength": 1
+		}
 	]
 }

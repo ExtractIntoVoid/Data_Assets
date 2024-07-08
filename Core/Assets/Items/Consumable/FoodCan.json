@@ -8,5 +8,5 @@
 	"MaxUses": 100,
 	"EnergyRestore": 60,
 	"HydrationRestore": 30,
-	"Effects": []
+	"SideEffects": []
 }

@@ -5,8 +5,8 @@ Used for "Died by" or "Effect caused by"
 
 
 Time
-All time is in seconds.
-If you see -1 it means infinte.
+All time is in seconds. (Double/decimal, so can do fraction of it :D )
+If you see Infinity it means infinte.
 Initial time is exist is how long the effect should last after getting this effect.
 Wait time is used if wounded or have to wait for getting the effect 
 

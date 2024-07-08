@@ -13,7 +13,7 @@
 	"Time": {
 		"Initial": 40,
 		"Min": 0,
-		"Max": -1,
+		"Max": "Infinity",
 		"WaitUntilApply": 10
 	},
 	"Strength": {

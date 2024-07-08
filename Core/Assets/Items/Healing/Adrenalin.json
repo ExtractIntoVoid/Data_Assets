@@ -5,9 +5,13 @@
 	"Volume": 0.0,
 	"UseTime": 3,
 	"HealAmount": 25,
-	"SideEffect": 
+	"SideEffects": 
 	[
-		"Adrenalin"
+		{
+			"EffectName":"Adrenalin",
+			"EffectTime": 10,
+			"EffectStrength": 1
+		}
 	],
 	"AssetPath": "Core/Assets/Items/Healing/Adrenalin.tres",
 	"Tags": [
