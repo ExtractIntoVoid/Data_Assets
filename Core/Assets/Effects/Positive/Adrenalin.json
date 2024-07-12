@@ -19,15 +19,13 @@
 	"Strength": {
 		"Min": 0,
 		"Max": 30,
-		"Energy": [
-			"Health"
+		"ApplyTo": [
+			"Health",
+			"Energy"
 		]
 	},
 	"AppliedFrom": [
 		"IHealing"
-	],
-	"AppliedTo": [
-		"Player"
 	],
 	"UseClass": "EIV_Game.Effects.Adrenalin"
 }

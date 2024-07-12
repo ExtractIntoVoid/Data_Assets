@@ -19,15 +19,12 @@
 	"Strength": {
 		"Min": 0,
 		"Max": 30,
-		"Energy": [
+		"ApplyTo": [
 			"Health"
 		]
 	},
 	"AppliedFrom": [
 		"IConsumable"
-	],
-	"AppliedTo": [
-		"Player"
 	],
 	"UseClass": "EIV_Game.Effects.Alcohol"
 }
