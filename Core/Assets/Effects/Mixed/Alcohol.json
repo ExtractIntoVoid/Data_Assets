@@ -26,5 +26,5 @@
 	"AppliedFrom": [
 		"IConsumable"
 	],
-	"UseClass": "EIV_Game.Effects.Alcohol"
+	"UseClass": "EIV_Core.Effects.Alcohol"
 }

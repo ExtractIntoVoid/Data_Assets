@@ -1,13 +1,14 @@
 {
-	"BaseID": "Backpack_32",
+	"BaseID": "Backpack_Template",
 	"ItemType": "IBackpack",
 	"Weight": 0.0,
 	"Volume": 0.0,
 	"MaxItemWeight": 32,
 	"MaxItemVolume": 32,
-	"AssetPath": "Core/Assets/Items/Backpack/32.tres",
+	"AssetPath": "MyMod/scenes/Backpack/Template.tscn",
 	"Tags": [
-		"Backpack_32",
+		"Template",
 		"Backpack"
-	]
+	],
+	"Items": []
 }

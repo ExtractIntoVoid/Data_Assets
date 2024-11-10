@@ -1,20 +1,19 @@
 {
-	"BaseID": "Gun_Pistol",
+	"BaseID": "Gun_Template",
 	"ItemType": "IGun",
 	"Weight": 13.0,
 	"Volume": 0.0,
 	"MagazineSupport": 
 	[
-		"Mag919"
+		"MagTemplate"
 	],
 	"AmmoSupported":
 	[
-		"Ammo_9x19"
+		"Ammo_Template"
 	],
 	"Tags" : [
 	  "Weapon",
-	  "Pistol",
 	  "Civilian"
 	],
-	"AssetPath": "Core/Assets/Items/Gun/Pistol.tres"
+	"AssetPath": "MyMod/scenes/Guns/Template.tscn"
 }

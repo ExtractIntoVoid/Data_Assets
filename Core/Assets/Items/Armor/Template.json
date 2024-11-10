@@ -1,13 +1,13 @@
 {
-	"BaseID": "Armor_Medium",
+	"BaseID": "Armor_Template",
 	"ItemType": "IArmor",
 	"Weight": 0.0,
 	"Volume": 0.0,
 	"BlockEfficacy": 67.5,
 	"ArmorWeight": 89.5,
-	"AssetPath": "Core/Assets/Items/Armor/Medium.tres",
+	"AssetPath": "",
 	"Tags": [
-		"Armor_Medium",
+		"Armor_Template",
 		"Armor"
 	]
 }

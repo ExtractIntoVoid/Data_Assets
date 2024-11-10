@@ -1,12 +1,12 @@
 {
-	"BaseID": "Melee_Knife",
+	"BaseID": "Melee_Template",
 	"ItemType": "IMelee",
 	"Weight": 0.0,
 	"Volume": 0.0,
 	"Damage": 24,
 	"DamageType": "Melee",
 	"UseTime": 0.5,
-	"AssetPath": "Core/Assets/Items/Melee/Knife.tres",
+	"AssetPath": "",
 	"Tags": 
 	[
 		"Melee_Knife",

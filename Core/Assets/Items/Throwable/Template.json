@@ -1,14 +1,14 @@
 {
-	"BaseID": "Throwable_Flashbang",
+	"BaseID": "Throwable_Template",
 	"ItemType": "IThrowable",
 	"Weight": 0.50,
 	"Volume": 0.0,
 	"UseTime": 2,
 	"FuseTime": 5.0,
-	"AssetPath": "Core/Assets/Items/Throwable/Flashbang.tres",
+	"AssetPath": "",
 	"Tags": 
 	[
-		"Throwable_Flashbang",
+		"Throwable_Template",
 		"Throwable"
 	]
 }

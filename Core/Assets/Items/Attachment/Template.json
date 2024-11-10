@@ -1,5 +1,5 @@
 {
-	"BaseID": "Attachment_Silencer",
+	"BaseID": "Attachment_Template",
 	"ItemType": "IAttachment",
 	"Weight": 0.3,
 	"Volume": 0.0,
@@ -15,5 +15,5 @@
 	  "Attachment",
 	  "AutoRifle"
 	],
-	"AssetPath": "Core/Assets/Items/Attachment/Silencer.tres"
+	"AssetPath": "MyMod/scenes/Attachment/Template.tscn"
 }

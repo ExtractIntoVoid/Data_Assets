@@ -26,5 +26,5 @@
 	"AppliedFrom": [
 		"IAmmo"
 	],
-	"UseClass": "EIV_Game.Effects.Poison"
+	"UseClass": "EIV_Core.Effects.Poison"
 }

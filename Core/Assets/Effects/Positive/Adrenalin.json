@@ -27,5 +27,5 @@
 	"AppliedFrom": [
 		"IHealing"
 	],
-	"UseClass": "EIV_Game.Effects.Adrenalin"
+	"UseClass": "EIV_Core.Effects.Adrenalin"
 }

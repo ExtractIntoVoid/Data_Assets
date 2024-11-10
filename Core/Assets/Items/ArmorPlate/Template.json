@@ -1,5 +1,5 @@
 {
-	"BaseID": "ArmorPlate_Lightweight",
+	"BaseID": "ArmorPlate_Template",
 	"ItemType": "IArmorPlate",
 	"Weight": 3.2,
 	"Volume": 0.0,
@@ -7,7 +7,7 @@
 	"Durability": 30,
 	"Material": "Ceramic",
 	"Tags": [
-		"ArmorPlate_Lightweight",
+		"ArmorPlate_Template",
 		"Ceramic",
 		"ArmorPlate"
 	]

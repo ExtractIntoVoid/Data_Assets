@@ -1,11 +1,11 @@
 {
-	"BaseID": "Rig_Medium",
-	"ItemType": "IRig",
+	"BaseID": "ArmoredRig_Template",
+	"ItemType": "IArmoredRig",
 	"Weight": 9.0,
 	"Volume": 0.0,
 	"AssetPath": "",
 	"MaxItem": 12,
-	"ItemTypesAccepted": 
+	"ItemsAccepted": 
 	[
 		"IAmmo",
 		"IMagazine",
@@ -20,9 +20,11 @@
 	[
 		"IArmorPlate"
 	],
-	"Tags": 
-	[
-		"Rig_Medium",
+	"BlockEfficacy": 67.5,
+	"ArmorWeight": 62.5,
+	"Tags": [
+		"ArmoredRig_Template",
+		"ArmoredRig",
 		"Rig"
 	]
 }

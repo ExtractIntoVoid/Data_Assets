@@ -1,17 +1,17 @@
 {
-	"BaseID": "Magazine_919",
+	"BaseID": "MagTemplate",
 	"ItemType": "IMagazine",
 	"Weight": 1.5,
 	"Volume": 0.0,
 	"MagSize": 12,
 	"SupportedAmmo" : 
 	[
-		"Ammo_9x19"
+		"Ammo_Template"
 	],
-	"AssetPath": "Core/Assets/Items/Magazine/919.tres",
+	"AssetPath": "",
 	"Tags": 
 	[
-		"Mag919",
+		"MagTemplate",
 		"Magazine"
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"BaseID": "Healing_Adrenalin",
+	"BaseID": "Healing_Template",
 	"ItemType": "IHealing",
 	"Weight": 0.50,
 	"Volume": 0.0,
@@ -8,14 +8,14 @@
 	"SideEffects": 
 	[
 		{
-			"EffectName":"Adrenalin",
+			"EffectName":"Template",
 			"EffectTime": 10,
 			"EffectStrength": 1
 		}
 	],
-	"AssetPath": "Core/Assets/Items/Healing/Adrenalin.tres",
+	"AssetPath": "MyMod/scenes/Healing/Template.tscn",
 	"Tags": [
-		"Healing_Adrenalin",
+		"Healing_Template",
 		"Healing",
 		"Effect_Positive"
 	]

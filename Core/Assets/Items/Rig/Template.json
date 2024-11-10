@@ -1,5 +1,5 @@
 {
-	"BaseID": "Rig_Small",
+	"BaseID": "Rig_Template",
 	"ItemType": "IRig",
 	"Weight": 7.0,
 	"Volume": 0.0,
@@ -16,7 +16,7 @@
 	"ArmorPlateAccepted": [],
 	"Tags": 
 	[
-		"Rig_Small",
+		"Rig_Template",
 		"Rig"
 	]
 }

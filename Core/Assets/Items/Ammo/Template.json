@@ -1,16 +1,15 @@
 {
-	"BaseID": "Ammo_919_AP",
+	"BaseID": "Ammo_Template",
 	"ItemType": "IAmmo",
 	"Weight": 0.20,
 	"Volume": 0.0,
-	"AssetPath": "Core/Assets/Items/Ammo/Ammo_919_AP.tres",
+	"AssetPath": "",
 	"Damage": 17,
 	"ArmorDamage": 35,
 	"DamageType": "Bullet",
 	"Speed": 0.5,
 	"Tags": [
-		"Ammo_9x19",
-		"Ammo_9",
+		"Ammo_Template",
 		"Ammo"
 	]
 }
